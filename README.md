@@ -51,7 +51,7 @@ Para cada país:
 ## 🚀 Resultados
 
 Algunos de los hallazgos clave incluyen:
-- **Correlación positiva/negativa** entre ciertos factores y el rendimiento de cultivos en distintos países.
+- **Ausencia de correlación positiva/negativa** entre los factores y el rendimiento de cultivos en distintos países.
 - **Tendencias temporales** que muestran el impacto de cambios en el clima en los últimos años en los rendimientos de cultivos.
 - **Comparación regional** de factores que destacan las diferencias en prácticas agrícolas y condiciones ambientales.
 
@@ -64,9 +64,18 @@ El dashboard interactivo en Power BI permite visualizar:
 
 ## 📋 Conclusiones y Siguientes Pasos
 
-1. Identificación de factores ambientales que impactan más fuertemente el rendimiento de cultivos.
-2. Sugerencias para análisis futuros y desarrollo de modelos predictivos basados en estas variables.
-3. Expansión del análisis a otros países o cultivos según disponibilidad de datos.
+1. Rendimiento Promedio por País
+Se observó que países como Brasil y México lideran en términos de rendimiento promedio (kg/Ha) a lo largo del tiempo, lo que puede atribuirse a mejores prácticas agrícolas, infraestructura y condiciones climáticas favorables. En contraste, países como Perú presentan rendimientos significativamente menores, sugiriendo áreas de oportunidad para optimizar su producción.
+2. Rendimiento por Cultivo
+Los cultivos como las papas y la yuca tienen una alta productividad en Brasil y México, mientras que otros como el maíz y los camotes muestran un rendimiento más uniforme entre países. Esto resalta la necesidad de focalizar esfuerzos en cultivos estratégicos por región, optimizando recursos para maximizar su potencial.
+3. Factores Climáticos y de Insumos
+No se identificó una correlación clara entre la temperatura promedio y el rendimiento agrícola, lo que sugiere que la productividad está más influenciada por otros factores, como las prácticas agrícolas y el manejo de insumos. Asimismo, los pesticidas y otros insumos presentan una correlación baja o incluso negativa con el rendimiento, lo que podría reflejar un uso subóptimo o ineficiente en algunas áreas.
+4. Desempeño Temporal y Variabilidad
+En los últimos años, se ha mantenido una tendencia estable en los rendimientos promedio por país y cultivo, con una ligera convergencia entre las regiones. Sin embargo, persisten brechas significativas en la productividad entre los países, destacando la necesidad de una mayor inversión en tecnología y capacitación agrícola en las regiones con menor rendimiento.
+5. Áreas de Mejora
+Optimización del uso de insumos: Identificar mejores prácticas para el uso eficiente de pesticidas y fertilizantes.
+Focalización en cultivos clave: Priorizar el desarrollo de cultivos que aporten mayor rendimiento en cada país, mejorando así las cadenas de valor agrícola.
+Reducción de brechas regionales: Diseñar políticas que fomenten la transferencia tecnológica y la capacitación agrícola en países con menores rendimientos.
 
 ---
 
