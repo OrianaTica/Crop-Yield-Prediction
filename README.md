@@ -1,4 +1,4 @@
-# Análisis de Rendimiento de Cultivos y Factores Ambientales en América del Sur 🌽🌧️
+# Análisis de Rendimiento de Cultivos y Factores Ambientales en América Latina 🌽🌧️
 
 Este proyecto analiza el impacto de factores ambientales (lluvias, uso de pesticidas, temperatura) en el rendimiento de cultivos en Argentina, Brasil,Mexico,Perú y Chile. El análisis se realiza utilizando datos históricos y visualizaciones interactivas desarrolladas en Power BI para identificar correlaciones y tendencias que pueden influir en la productividad agrícola en la región.
 
